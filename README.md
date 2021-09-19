@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Firat Goktepe</h1>
 <h3 align="center">Frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs** and **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://firatgoktepe.vercel.app/](https://firatgoktepe.vercel.app/)
 
