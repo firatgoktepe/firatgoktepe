@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Firat Goktepe</h1>
-<h3 align="center">Frontend developer from Turkey</h3>
+<h3 align="center">Full-stack developer from Turkey</h3>
 
 - 🌱 I’m currently learning **NextJs** , **Typescript** and **Testing(Jest, Cypress)**
 
