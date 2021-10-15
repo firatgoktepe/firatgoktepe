@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋 I'm Firat Goktepe</h1>
 <h3 align="center">Full-stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Typescript** and **Testing(Jest, Cypress)**
+
+- 💬 I'm doing **Wordpress Theme Development**, **Web Apps ( <i>React and NextJs</i> )**, **Mobile Apps ( <i>React Native</i> )**
+
 
 - 🌱 Upper intermediate level at: **JavaScript**, **PHP**
 
+
 - 🌱 Intermediate level at: **C**, **Python**
+
+
+- 🌱 I’m currently learning **Typescript** and **Testing(Jest, Cypress)**
+
 
 - 👨‍💻 All of my projects are available at [https://firatgoktepe.vercel.app/](https://firatgoktepe.vercel.app/)
 
-- 💬 I'm doing **Wordpress Theme Development**, **Web Apps ( <i>React and NextJs</i> )**, **Mobile Apps ( <i>React Native</i> )**
 
 - 📫 How to reach me **firatgoktepe1986@gmail.com**
 
