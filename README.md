@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://firatgoktepe.vercel.app/](https://firatgoktepe.vercel.app/)
 
-- 💬 Ask me about **Wordpress Theme Development**, **React**, **ReactNative**
+- 💬 Ask me about **Wordpress Theme Development**, **React**, **React Native**
 
 - 📫 How to reach me **firatgoktepe1986@gmail.com**
 
