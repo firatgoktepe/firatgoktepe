@@ -14,9 +14,6 @@
 - 🌱 I’m currently learning **Typescript** and **Testing(Jest, Cypress)**
 
 
-- 👨‍💻 All of my projects are available at [https://firatgoktepe.vercel.app/](https://firatgoktepe.vercel.app/)
-
-
 - 📫 How to reach me **firatgoktepe1986@gmail.com**
 
 
