@@ -5,7 +5,7 @@
 - 💬 I'm doing **Wordpress Theme Development**, **Web Apps ( <i>React and NextJs</i> )**, **Mobile Apps ( <i>React Native</i> )**
 
 
-- 👨‍💻 Upper intermediate level at: **JavaScript**, **PHP**
+- 👨‍💻 Upper intermediate level at: **JavaScript** and **PHP**
 
 
 - 🌱 Intermediate level at: **C**, **Python**
