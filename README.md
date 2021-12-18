@@ -8,7 +8,7 @@
 - 👨‍💻 Upper intermediate level at: **JavaScript** and **PHP**
 
 
-- 🌱 Intermediate level at: **C** and **Python**
+- 🌱 Pre-intermediate level at: **C** and **Python**
 
 
 - 🧘🏻‍♂️  I’m currently learning **Typescript** and **Testing (Jest and Cypress)**
