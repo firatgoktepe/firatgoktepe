@@ -14,7 +14,7 @@
 - 🧘🏻‍♂️  I’m currently learning **Typescript** and **Testing (Jest and Cypress)**
 
 
-- 📫 How to reach me **firatgoktepe1986@gmail.com**
+- 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
 
 
 
