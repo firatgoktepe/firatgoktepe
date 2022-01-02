@@ -11,7 +11,7 @@
 - 🌱 Pre-intermediate level at: **C** and **Python**
 
 
-- 🧘🏻‍♂️  I’m currently learning **Typescript** and **Testing (Jest and Cypress)**
+- 🧘🏻‍♂️  I’m currently learning **Testing (Jest and Cypress)**
 
 
 - 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
