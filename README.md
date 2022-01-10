@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer from Turkey</h3>
 
 
-- 💬 I'm building **Wordpress Custom Themes**, **Web Apps ( <i>React, NextJs and Typescript</i> )** and **Mobile Apps ( <i>React Native</i> )**
+- 💬 I'm building **Wordpress Custom Themes**, **Web Apps (<i>React, NextJs and Typescript</i>)** and **Mobile Apps ( <i>React Native</i> )**
 
 
 - 👨‍💻 Advanced level at: **JavaScript** 
