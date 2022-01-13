@@ -17,7 +17,7 @@
 
 - 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
 
-- Work with me at Upwork >>>> https://www.upwork.com/freelancers/~013d9fe5c84d3b98b1?viewMode=1
+- 👨‍💻 Work with me at Upwork >>>> https://www.upwork.com/freelancers/~013d9fe5c84d3b98b1?viewMode=1
 
 
 
