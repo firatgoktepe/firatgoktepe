@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋 I'm Firat Göktepe!</h1>
-<h3 align="center">Full-Stack Developer from Turkey</h3>
+<h3 align="center">A Full-Stack Developer from Turkey</h3>
 
 
 - 💬 I'm building **Wordpress Custom Themes**, **Web Apps (<i>React, NextJs and Typescript</i>)** and **Mobile Apps (<i>React Native</i>)**
