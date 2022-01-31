@@ -7,7 +7,7 @@
 
 - 👨‍💻 Advanced level at: **JavaScript** 
 
-- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**
+- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **MongoDB***
 
 - 🌱 Pre-intermediate level at: **C** and **Python**
 
