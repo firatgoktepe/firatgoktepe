@@ -9,7 +9,7 @@
 
 - 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS**, **MongoDB**
 
-- 🌱 Pre-intermediate level at: **C** and **Python**, **Bootstrap**
+- 🌱 Pre-intermediate level at: **C** and **Python**
 
 
 - 🧘🏻‍♂️  I’m currently learning **Testing (@testing-library/react, Jest and Cypress)**
