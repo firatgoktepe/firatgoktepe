@@ -5,11 +5,11 @@
 - 💬 I'm building **Wordpress Custom Themes**, **Web Apps (<i>React, NextJs and Typescript</i>)** and **Mobile Apps (<i>React Native</i>)**
 
 
-- 👨‍💻 Advanced level at: **HTML**, **CSS**(<i>Sass, Bootstrap, Tailwind CSS</i>), **JavaScript** 
+- 👨‍💻 Advanced level at: **HTML**, **CSS**(<i>Sass, Tailwind CSS</i>), **JavaScript** 
 
 - 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS**, **MongoDB**
 
-- 🌱 Pre-intermediate level at: **C** and **Python**
+- 🌱 Pre-intermediate level at: **C** and **Python**, **Bootstrap**
 
 
 - 🧘🏻‍♂️  I’m currently learning **Testing (@testing-library/react, Jest and Cypress)**
