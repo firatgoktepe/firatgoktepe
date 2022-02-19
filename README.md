@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 💬 I'm building **Wordpress Custom Themes, Plugins** **& **Web Apps (<i>React, Next.js and Typescript</i>)** and **Mobile Apps (<i>React Native</i>)**
+- 💬 I'm building **Wordpress Custom Themes, Plugins** **&** **Web Apps (<i>React, Next.js and Typescript</i>)** and **Mobile Apps (<i>React Native</i>)**
 
 
 - 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, Tailwind CSS</i>), JavaScript** 
