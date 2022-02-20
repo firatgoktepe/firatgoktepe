@@ -12,7 +12,7 @@
 - 🌱 Pre-intermediate level at: **C** and **Python**
 
 
-- 🧘🏻‍♂️  I’m currently learning **Testing (@testing-library/react, Jest and Cypress)**
+- 🧘🏻‍♂️  I’m currently learning **Testing (@testing-library/react, Jest)**
 
 
 - 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
