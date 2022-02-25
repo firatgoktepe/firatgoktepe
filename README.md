@@ -7,7 +7,7 @@
 
 - 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, Tailwind CSS</i>), JavaScript** 
 
-- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS, Next.js, Typescript**, **MongoDB, Firebase**
+- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS, Next.js, Typescript**, **MongoDB, Firebase, JAMStack**
 
 - 🌱 Pre-intermediate level at: **C** and **Python**
 
