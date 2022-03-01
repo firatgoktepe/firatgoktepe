@@ -5,7 +5,7 @@
 - 💬 I'm building **Wordpress Custom Themes, Plugins** **&** **Web Apps (<i>React, Next.js and Typescript</i>)** and **Mobile Apps (<i>React Native</i>)**
 
 
-- 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, Tailwind CSS</i>), JavaScript** 
+- 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, TailwindCSS</i>), JavaScript** 
 
 - 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS, Next.js, Typescript**, **MongoDB, Firebase, JAMStack**
 
