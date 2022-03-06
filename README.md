@@ -12,7 +12,7 @@
 - 🌱 Pre-intermediate level at: **C** and **Python**
 
 
-- 🧘🏻‍♂️  I’m currently learning **Testing (Unit and Integration Tests) with @testing-library/react, Jest**
+- 🧘🏻‍♂️  I’m currently learning **Testing (Unit and Integration Tests) with @testing-library/react and Jest**
 
 
 - 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
