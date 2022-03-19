@@ -2,17 +2,17 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 💬 I'm building **Wordpress Custom Themes, Plugins** **&** **Web Apps (<i>React, Next.js, TypeScript and MERN Stack</i>)** and **Mobile Apps (<i>React Native</i>)**
+- 💬 I'm building **Wordpress Custom Themes, Plugins** & **Web Apps (<i>React, Next.js, TypeScript and MERN Stack</i>)** & **Mobile Apps (<i>React Native</i>)**
 
 
 - 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, TailwindCSS</i>), JavaScript** 
 
 - 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS, Next.js, TypeScript**, **MongoDB, Firebase, JAMStack**
 
-- 🌱 Basic level at: **C** and **Python**
+- 🌱 Basic level at: **C** & **Python**
 
 
-- 🧘🏻‍♂️  I love **Testing (Unit and Integration Tests) with @testing-library/react** and **Jest**
+- 🧘🏻‍♂️  I love **Testing (Unit and Integration Tests) with @testing-library/react** & **Jest**
 
 
 - 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
