@@ -2,12 +2,12 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-- 💬 I'm building **Wordpress Custom Themes, Plugins** **&** **Web Apps (<i>React, Next.js, Typescript and MERN Stack</i>)** and **Mobile Apps (<i>React Native</i>)**
+- 💬 I'm building **Wordpress Custom Themes, Plugins** **&** **Web Apps (<i>React, Next.js, TypeScript and MERN Stack</i>)** and **Mobile Apps (<i>React Native</i>)**
 
 
 - 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, TailwindCSS</i>), JavaScript** 
 
-- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS, Next.js, Typescript**, **MongoDB, Firebase, JAMStack**
+- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS, Next.js, TypeScript**, **MongoDB, Firebase, JAMStack**
 
 - 🌱 Pre-intermediate level at: **C** and **Python**
 
