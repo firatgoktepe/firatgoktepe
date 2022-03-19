@@ -9,7 +9,7 @@
 
 - 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS, Next.js, TypeScript**, **MongoDB, Firebase, JAMStack**
 
-- 🌱 Pre-intermediate level at: **C** and **Python**
+- 🌱 Basic level at: **C** and **Python**
 
 
 - 🧘🏻‍♂️  I’m currently improving my skills about **Testing (Unit and Integration Tests) with @testing-library/react** and **Jest**
