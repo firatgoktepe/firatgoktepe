@@ -12,7 +12,7 @@
 - 🌱 Basic level at: **C**, **Python**
 
 
-- 🧘🏻‍♂️  I like **Testing (Unit and Integration Tests) with @testing-library/react** & **Jest**
+- 🧘🏻‍♂️  I like **Testing (Unit and Integration Tests) with testing-library/react** & **Jest**
 
 
 - 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
