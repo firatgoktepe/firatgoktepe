@@ -5,9 +5,9 @@
 - 💬 I'm building **Web Apps (<i>React, Next.js, TypeScript and MERN Stack</i>)** & **Mobile Apps (<i>React Native</i>)** & **Wordpress Custom Themes** and **Plugins**
 
 
-- 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, TailwindCSS, Bootstrap</i>), JavaScript, JQuery** 
+- 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, TailwindCSS, Bootstrap</i>), JavaScript, ReactJS, Next.js, JQuery** 
 
-- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **ReactJS, Next.js, TypeScript**, **MongoDB, Firebase, JAMStack**
+- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, TypeScript**, **MongoDB, Firebase, JAMStack**
 
 - 🧘🏻‍♂️  I like **Testing (Unit and Integration Tests) with Testing-library** & **Jest**
 
