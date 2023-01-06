@@ -7,7 +7,7 @@
 
 - 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, TailwindCSS, Bootstrap</i>), JavaScript, ReactJS, Next.js, JQuery** 
 
-- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, TypeScript**, **MongoDB, Firebase, JAMStack**
+- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **TypeScript**, **MongoDB, Firebase, JAMStack**
 
 - 🧘🏻‍♂️  I like **Testing (Unit and Integration Tests) with Testing-library** & **Jest**
 
