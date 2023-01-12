@@ -9,7 +9,7 @@
 
 - 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **TypeScript**, **MongoDB, Firebase, JAMStack, REST API, GraphQL, Headless CMS**
 
-- 🧘🏻‍♂️  I like **Testing (Unit and Integration Tests) with Testing-library** & **Jest**
+- 🧘🏻‍♂️  I like **Testing (Unit and Integration Tests) with Testing-library** & **Jest & Cypress**
 
 
 - 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
