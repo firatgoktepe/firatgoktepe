@@ -9,6 +9,8 @@
 
 - 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **TypeScript**, **MongoDB, Firebase, JAMStack, REST API, GraphQL, Headless CMS**
 
+- 👨‍💻 Intermediate level at: **Node.js**
+
 - 🧘🏻‍♂️  I like **Testing (Unit and Integration Tests) with Testing-library** & **Jest & Cypress**
 
 
