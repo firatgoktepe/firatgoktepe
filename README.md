@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋 I'm Firat Göktepe!</h1>
-<h3 align="center">Front-End Developer</h3>
+<h2 align="center">Front-End Developer</h2>
 
 
 - 💬 I'm building **Web Apps (<i>React, Next.js, TypeScript and MERN Stack</i>)** & **Mobile Apps (<i>React Native</i>)** & **Wordpress Custom Themes** and **Plugins**
