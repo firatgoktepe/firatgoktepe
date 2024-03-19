@@ -1,15 +1,15 @@
 <h1 align="center">Hi! 👋 I'm Fırat Göktepe!</h1>
-<h2 align="center">Front-End Developer<span>(6+)</span></h2>
+<h2 align="center">Front-End Developer<span style="font-size: 16px; font-style: italic;">(6+)</span></h2>
 
 
 - 💬 I'm building **Web Apps (<i>React, Next.js, TypeScript and MERN Stack</i>)** & **Mobile Apps (<i>React Native</i>)** & **Wordpress Custom Themes** and **Plugins**
 
 
-- 👨‍💻 Advanced level at: **HTML, CSS(<i>Sass, Tailwind CSS, Bootstrap, Styled-components, Emotion-css</i>), JavaScript, ReactJS(Hooks, Redux, Context API), Next.js** 
+- 👨‍💻 Advanced level of **HTML, CSS(<i>Sass, Tailwind CSS, Bootstrap, Styled-components, Emotion-css</i>), JavaScript, ReactJS(Hooks, Redux, Context API), Next.js** 
 
-- 👨‍💻 Upper intermediate level at: **PHP**, **MySQL**, **TypeScript**, **MongoDB, Firebase, JAMStack, REST API, GraphQL, Headless CMS**
+- 👨‍💻 Upper intermediate level of **PHP**, **MySQL**, **TypeScript**, **MongoDB, Firebase, JAMStack, REST API, GraphQL, Headless CMS**
 
-- 👨‍💻 Intermediate level at: **Node.js**, **Express**
+- 👨‍💻 Intermediate level of **Node.js**, **Express**
 
 - 🧘🏻‍♂️  I like writing **Tests (Unit and Integration Tests) with React Testing Library** & **Jest & Cypress**
 
