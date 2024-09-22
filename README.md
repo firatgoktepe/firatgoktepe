@@ -5,9 +5,9 @@
 - 💬 I'm building **Web Apps (<i>React, Next.js, TypeScript and MERN Stack</i>)** & **Mobile Apps (<i>React Native</i>)** & **Wordpress Custom Themes** and **Plugins**
 
 
-- 👨‍💻 Advanced level of **HTML, CSS(<i>Sass, Tailwind CSS, Bootstrap, Styled-components, Emotion-css</i>), JavaScript, ReactJS(Hooks, Redux, Context API), Next.js** 
+- 👨‍💻 Advanced level of **HTML, CSS(<i>Sass, Tailwind CSS, Bootstrap, Styled-components, Emotion-css</i>), JavaScript, React(Hooks, Redux, Context API, React Query), Next.js, TypeScript, REST API** 
 
-- 👨‍💻 Upper intermediate level of **PHP**, **MySQL**, **TypeScript**, **MongoDB, Firebase, JAMStack, REST API, GraphQL, Headless CMS**
+- 👨‍💻 Upper intermediate level of **PHP**, **MySQL**, **PostGreSQL**, **MongoDB, Firebase, JAMStack, GraphQL, Headless CMS**
 
 - 👨‍💻 Intermediate level of **Node.js**, **Express**
 
