@@ -11,7 +11,7 @@
 
 - 👨‍💻 Intermediate level of **Node.js**, **Express**
 
-- 🧘🏻‍♂️  I like writing **Tests (Unit and Integration Tests) with React Testing Library** & **Vitest** **Jest & Cypress**
+- 🧘🏻‍♂️  I like writing **Tests (Unit and Integration Tests) with React Testing Library** & **Vitest**, **Jest & Cypress**
 
 
 - 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
