@@ -5,13 +5,13 @@
 - 💬 I'm building **Web Apps (<i>React, Next.js, TypeScript and MERN Stack</i>)** & **Mobile Apps (<i>React Native</i>)** & **Wordpress Custom Themes** and **Plugins**
 
 
-- 👨‍💻 Advanced level of **HTML, CSS(<i>Sass, Tailwind CSS, Bootstrap, Styled-components, Emotion-css</i>), JavaScript, React(Hooks, Redux, Zustand, Context API, React Query), Next.js, TypeScript, REST API** 
+- 👨‍💻 Advanced level of **HTML, CSS(<i>Sass, Tailwind CSS, Bootstrap, Styled-components, Emotion-css</i>), JavaScript, React(Hooks, Redux, Zustand, Context API, Tanstack Router, React Query), Next.js, TypeScript, REST API** 
 
 - 👨‍💻 Upper intermediate level of **PHP**, **MySQL**, **PostGreSQL**, **MongoDB, Firebase, JAMStack, GraphQL, Headless CMS**
 
 - 👨‍💻 Intermediate level of **Node.js**, **Express**
 
-- 🧘🏻‍♂️  I like writing **Tests (Unit and Integration Tests) with React Testing Library** & **Jest & Cypress**
+- 🧘🏻‍♂️  I like writing **Tests (Unit and Integration Tests) with React Testing Library** & **Vitest** **Jest & Cypress**
 
 
 - 📫 How to reach me >>>> **firatgoktepe1986@gmail.com**
